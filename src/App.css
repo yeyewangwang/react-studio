@@ -5,5 +5,8 @@
 }
 
 .BakeryItem {
-  
+  border: 5px solid #FFFF00;
+  display: flex;
+  justify-content: center;
+  width=50%;
 }
